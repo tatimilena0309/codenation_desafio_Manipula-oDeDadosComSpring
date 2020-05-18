@@ -1,4 +1,4 @@
-# codenation_desafio_Manipula-oDeDadosComSpring
+# codenation_desafio_ManipulacaoDeDadosComSpring
 Manipulação de dados com Spring
 
 Neste desafio você receberá um projeto Maven pré-configurado com Springboot, Spring-JPA e banco de dados H2. Este projeto também contém as classes de entidade entity já criadas para o Modelo de Entidade Relacionamento abaixo:
